@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">| Meal Collection |</string>
+    <string name="My_API_KEY">c0f9309d</string>
+    <string name="search_title">Search</string>
+    <string name="add_movies_to_db">Add Meals to DB</string>
+    <string name="search_for_movies">Search for Meals by Ingredients</string>
+    <string name="search_for_actors">Search for Meals in the database</string>
+    <string name="copyright">©MealHub:2023</string>
+    <string name="search">search</string>
+    <string name="save_movie_to_database">Save meal to Database</string>
+    <string name="retrieve_movie">Retrieve Meal</string>
+    <string name="search_movie">Search</string>
+    <string name="filter_movies">Filter Meal</string>
+    <string name="application_logo">Application Logo</string>
+    <string name="database_title">Database Table Data values</string>
+</resources>
